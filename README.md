@@ -1,12 +1,15 @@
 # AnimatedStatus
 
 **Download**
+
 https://github.com/SirLennox/AnimatedStatus/raw/master/AnimatedStatus.jar
 
 **Usage**
+
 java -jar AnimatedStatus.jar <token> <filePath>
 
 **How to make an animated status file?**
+
 1. Create a new file.
 2. Usages:
 *Watching*:
@@ -19,9 +22,11 @@ S <URL> <text>
 **All statuses in the text file would be shown in a loop with 10 secounds delay.**
 
 **Example**
+
 P AnimatedStatus | by SirLennox (https://github.com/SirLennox/AnimatedStatus/)
 W on my animated status (https://github.com/SirLennox/AnimatedStatus/)
 S https://twitch.tv/abcdefg my AnimatedStatus (https://github.com/SirLennox/AnimatedStatus/)
 
 **Video**
+
 *Coming soon...*
