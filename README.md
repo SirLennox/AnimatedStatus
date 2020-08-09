@@ -23,9 +23,7 @@ S <URL> <text>
 
 **Example**
 
-P AnimatedStatus | by SirLennox (https://github.com/SirLennox/AnimatedStatus/)
-W on my animated status (https://github.com/SirLennox/AnimatedStatus/)
-S https://twitch.tv/abcdefg my AnimatedStatus (https://github.com/SirLennox/AnimatedStatus/)
+https://github.com/SirLennox/AnimatedStatus/raw/master/AnimatedStatusAd.txt
 
 **Video**
 
