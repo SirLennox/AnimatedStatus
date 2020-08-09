@@ -6,7 +6,7 @@ https://github.com/SirLennox/AnimatedStatus/raw/master/AnimatedStatus.jar
 
 **Usage**
 
-java -jar AnimatedStatus.jar <token> <filePath>
+java -jar AnimatedStatus.jar \<token> \<filePath>
 
 **How to make an animated status file?**
 
@@ -15,15 +15,15 @@ java -jar AnimatedStatus.jar <token> <filePath>
 
 *Watching*:
 
-W <text>
+W \<text>
 
 *Playing*:
 
-P <text>
+P \<text>
 
 *Streaming*:
 
-S <URL> <text> 
+S \<URL> \<text> 
 
 **You have to provide a twitch url like: https://twitch.tv/abc**
 **All statuses in the text file would be shown in a loop with 10 secounds delay.**
