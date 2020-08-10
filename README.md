@@ -34,4 +34,4 @@ https://github.com/SirLennox/AnimatedStatus/raw/master/AnimatedStatusAd.txt
 
 **Video**
 
-*Coming soon...*
+https://youtu.be/AF6dceZ8XhA
